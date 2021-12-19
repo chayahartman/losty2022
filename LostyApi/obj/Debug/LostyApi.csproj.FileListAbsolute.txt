@@ -1,0 +1,132 @@
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\LostyApi.dll.config
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\LostyApi.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\LostyApi.pdb
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\csc.exe
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\csc.exe.config
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\csc.rsp
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\csi.exe
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\csi.exe.config
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\csi.rsp
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\System.AppContext.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\System.Console.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\vbc.exe
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\vbc.exe.config
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\vbc.rsp
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\Newtonsoft.Json.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\System.Net.Http.Formatting.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\System.Web.Http.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\System.Web.Http.WebHost.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\Newtonsoft.Json.xml
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\System.Net.Http.Formatting.xml
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\System.Web.Http.xml
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\System.Web.Http.WebHost.xml
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\obj\Debug\LostyApi.csprojAssemblyReference.cache
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\obj\Debug\LostyApi.csproj.CoreCompileInputs.cache
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\obj\Debug\LostyApi.csproj.CopyComplete
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\obj\Debug\LostyApi.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\obj\Debug\LostyApi.pdb
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\FromHeaderAttribute.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\הנדסאות לימודים\Losty2022\LostyApi\LostyApi\bin\Swagger.Net.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\LostyApi.dll.config
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\LostyApi.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\LostyApi.pdb
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\csc.exe
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\csc.exe.config
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\csc.rsp
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\csi.exe
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\csi.exe.config
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\csi.rsp
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\System.AppContext.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\System.Console.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\vbc.exe
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\vbc.exe.config
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\vbc.rsp
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\FromHeaderAttribute.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\Newtonsoft.Json.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\Swagger.Net.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\System.Net.Http.Formatting.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\System.Web.Http.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\System.Web.Http.WebHost.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\Newtonsoft.Json.xml
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\System.Net.Http.Formatting.xml
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\System.Web.Http.xml
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\System.Web.Http.WebHost.xml
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\obj\Debug\LostyApi.csprojAssemblyReference.cache
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\obj\Debug\LostyApi.csproj.CoreCompileInputs.cache
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\obj\Debug\LostyApi.csproj.CopyComplete
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\obj\Debug\LostyApi.dll
+C:\Users\חיה הרטמן\OneDrive\שולחן העבודה\losty\LostyApi\LostyApi\obj\Debug\LostyApi.pdb
