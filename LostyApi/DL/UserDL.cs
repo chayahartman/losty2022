@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Configuration;
 using System.Data;
@@ -11,7 +11,7 @@ namespace LostyApi.DL
     public class UserDL
     {
 
-        public static string cs = ConfigurationManager.ConnectionStrings["losty"].ConnectionString;
+        public static string cs = ConfigurationManager.ConnectionStrings["losty2022"].ConnectionString;
         public static SqlConnection connection = new SqlConnection(cs);
         public DataTable count()
         {
